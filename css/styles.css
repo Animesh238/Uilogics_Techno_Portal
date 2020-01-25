@@ -274,3 +274,15 @@ text-align: center;
         height: 200px;
     }
 }
+@media (max-width: 400px) {
+    .main-nav{
+        flex-direction: column;
+    }
+    .main-nav a{
+        margin: 5px;
+    }
+    .zoom{
+        width: 350px;
+        height: 200px;
+    }
+}
