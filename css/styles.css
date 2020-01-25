@@ -286,5 +286,8 @@ text-align: center;
         width: 301px;
         height: 182px;
     }
+    .wrapper{
+        display: none;
+    }
 
 }
